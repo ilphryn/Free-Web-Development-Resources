@@ -1,6 +1,6 @@
 # Free Web Development Resources
 
-##Learning Platforms:  
+### Learning Platforms:  
 
 ⧩ freecodecamp.org  
 ⧩ codecademy.com  
@@ -11,7 +11,7 @@
 ⧩ khanacademy.org  
 ⧩ sololearn.com  
 
-##Free Hosting:  
+### Free Hosting:  
 
 ⧩ netlify.com  
 ⧩ firebase.google.com  
@@ -23,7 +23,7 @@
 ⧩ render.com  
 ⧩ docs.gitlab.com/ee/user/project/pages  
 
-##Coding Challenge Platforms:  
+### Coding Challenge Platforms:  
 
 ⧩ codewars.com  
 ⧩ topcoder.com  
@@ -36,7 +36,7 @@
 ⧩ leetcode.com  
 ⧩ spoj.com  
 
-F##reelancing platforms:  
+### Freelancing platforms:  
 
 📌 toptal.com  
 📌 upwork.com  
@@ -49,7 +49,7 @@ F##reelancing platforms:
 📌 hireable.com  
 📌 6nomads.com  
 
-##List of websites to find remote jobs:  
+### List of websites to find remote jobs:  
 
 📌 flexjobs.com  
 📌 remote.co/remote-jobs  
@@ -60,13 +60,13 @@ F##reelancing platforms:
 📌 europeremotely.com  
 📌 wfh.io  
 
-##Photos:  
+### Photos:  
 
 📷 unsplash.com  
 📷 pixabay.com  
 📷 pexels.com  
 
-##Illustrations:  
+### Illustrations:  
 
 ⧩ undraw.co/illustrations  
 ⧩ drawkit.io  
@@ -75,7 +75,7 @@ F##reelancing platforms:
 ⧩ interfacer.xyz  
 ⧩ blush.design  
 
-##Icons:
+### Icons:
 
 ⧩ fontawesome.com  
 ⧩ flaticon.com  
@@ -83,14 +83,14 @@ F##reelancing platforms:
 ⧩ material.io/resources/icons  
 ⧩ iconmonstr.com  
 
-##Fonts:
+### Fonts:
 
 ✍️ fonts.google.com  
 ✍️ fontspace.com  
 ✍️ 1001fonts.com  
 ✍️ fontsquirrel.com  
 
-##Youtube Channels:  
+### Youtube Channels:  
 
 🔗 Traversy Media  
 🔗 FreeCodeCamp  
@@ -100,7 +100,7 @@ F##reelancing platforms:
 🔗 Derek Banas  
 🔗 Academind  
 
-##Podcasts:
+### Podcasts:
 
 🔗 Syntax  
 🔗 Fullstack radio  
@@ -115,7 +115,7 @@ F##reelancing platforms:
 🔗 JAMStack Radio  
 🔗 Modern Web  
 
-##Code Editors:
+### Code Editors:
 
 🚀 Visual Studio Code [VS Code]  
 🚀 Sublime Text  
@@ -123,7 +123,7 @@ F##reelancing platforms:
 🚀 Brackets  
 🚀 Vim  
 
-##Color Palettes:
+### Color Palettes:
 
 🎨 coolors.co  
 🎨 colorhunt.co  
@@ -131,14 +131,14 @@ F##reelancing platforms:
 🎨 color-hex.com  
 🎨 mycolor.space  
 
-##UI Inspiration:
+### UI Inspiration:
 
 ⧩ uimovement.com  
 ⧩ uigarage.net  
 ⧩ collectui.com  
 ⧩ httpster.net  
 
-##Docs:
+### Docs:
 
 🔥 developer.mozilla.org  
 🔥 w3schools.com  
@@ -146,7 +146,7 @@ F##reelancing platforms:
 🔥 devdocs.io  
 🔥 free-for.dev  
 
-##Animation Libraries: 
+### Animation Libraries: 
 ⧩ CSShake  
 ⧩ Animate.css  
 ⧩ AnimeJS  
@@ -159,13 +159,13 @@ F##reelancing platforms:
 ⧩ Mo.js  
 ⧩ Bounce.js  
 
-##Charts / Data Visualization:
+### Charts / Data Visualization:
 
 📊 Chart.js  
 📊 D3.js  
 📊 three.js  
 
-##Chrome Extensions:
+### Chrome Extensions:
 
 🔖 Web Developer  
 🔖 CSSViewer  
@@ -173,7 +173,7 @@ F##reelancing platforms:
 🔖 JSONView  
 🔖 Lorem Ipsum Generator  
 
-##Website Optimization Tools:
+### Website Optimization Tools:
 
 ⚡ Google PageSpeed Insights  
 ⚡ GTmetrix  
